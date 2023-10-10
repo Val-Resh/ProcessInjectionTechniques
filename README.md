@@ -1,2 +1,2 @@
-# ProcessInjectionTechniques
-Process injection techniques written in C++ based on MITRE ATT&amp;CK techniques. This project was created for learning purposes.
+# MITRE ATT&CK Process Injection
+This project aims to cover the majority of Window's based process injection techniques. The purpose of this project is to learn how these techniques work programmatically to develop a deeper understanding. The project does not attempt to bypass EDRs, instead it provides the foundations to understand the differences between the different types of process injection. 
